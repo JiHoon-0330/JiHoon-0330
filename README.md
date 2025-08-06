@@ -9,26 +9,7 @@
 
 ### 안녕하세요! 👋 저는 이지훈 입니다.
 
-- 스타트업에서 프론트엔드 개발을 하고 있습니다.
-- 새로운 기술을 배우고 코딩을 통해 문제를 해결하는 것을 좋아합니다.
-
----
-
-### 💻 기술 스택
-
-<div gap="">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30"/>
-<!--   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="30" height="30"/> -->
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="30" height="30"/>
-</div>
-
-<br/>
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiHoon-0330&layout=compact&theme=dark" alt="Top Languages" /> -->
+- 새로운 기술을 배우고 문제를 해결하는 것을 좋아합니다.
 
 ---
 
